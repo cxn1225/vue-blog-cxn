@@ -9,9 +9,18 @@
 ##打包上传到git
 ##查看状态：git status
 ##上传本地：git add vue-blog/
-##上传服务器：git commit -m 'package vue blog'
+##标题：git commit -m 'package vue blog'
+##上传服务器：git push -u origin master
 ##用户名：cxn1225
 ##密码：Chi19971225
+
+##创建分支git branch day-4
+##git branch -a
+##切换分支git checkout day-4
+##提交本地
+##标题
+##上传服务器
+
 
 
 
