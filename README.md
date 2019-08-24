@@ -1,4 +1,19 @@
 # vue-blog
+##打包上线到netlify
+##1.全局安装：cnpm i netlify-cli -g
+##2.netlify deploy
+##3.输入打包路径：dist
+##4.输入提交到服务器
+##5.输入打包路径：dist
+
+##打包上传到git
+##查看状态：git status
+##上传本地：git add vue-blog/
+##上传服务器：git commit -m 'package vue blog'
+##用户名：cxn1225
+##密码：Chi19971225
+
+
 
 ## Project setup
 ```
